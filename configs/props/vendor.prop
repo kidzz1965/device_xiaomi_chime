@@ -309,7 +309,6 @@ vendor.usb.rmnet.func.name=gsi
 vendor.usb.rmnet.inst.name=rmnet
 vendor.usb.rndis.func.name=gsi
 vendor.usb.use_ffs_mtp=0
-ro.usb.uvc.enabled=true
 vendor.usb.use_gadget_hal=0
 
 # WiFi
