@@ -330,7 +330,8 @@ PRODUCT_PACKAGES += \
     SettingsResChime \
     SystemUIResChime \
     TelephonyResChime \
-    WifiResCommon
+    WifiResCommon \
+    Launcher3DeviceOverlay
 
 # Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
