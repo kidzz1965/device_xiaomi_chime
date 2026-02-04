@@ -312,6 +312,7 @@ PRODUCT_PACKAGES += \
     nfc_nci.st21nfc.default \
     SecureElement \
     Tag \
+    libbase_shim
 #    NfcNci
 
 PRODUCT_COPY_FILES += \
